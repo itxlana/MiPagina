@@ -1,0 +1,17 @@
+/*sobre escribe*/
+
+/*sobre escribe de la hoja original*/
+
+.bg-primary {
+    background-color: 6A1AA4 ;
+  }
+
+  .bg-about {
+    background-color:rgb(87, 0, 128) ;
+  }
+/* pares de verde en el arbor, nth-child = cada*/
+  section:nth-child(2n) {
+    background-color:rgb(102, 0, 128) ;
+  }
+
+
